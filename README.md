@@ -15,7 +15,7 @@ I am a ML and Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 - 🔭 I'm a student and contributing to ML/DL based web applications.
 - 🌱 Building and playing around with various Neural nets excites me :)
 - ⚡ Curretly I'm learning and applying various backend tools and Kubernetes.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Thillai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thillai-chithambaram-4952b31b8)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Thillai-blue?style=flat&logo=Linkedin&logoColor=white)](thillaichithambaram.a@gmail.com)
 
 ---
 
