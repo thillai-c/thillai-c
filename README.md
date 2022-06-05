@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hello from Thillai  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
+<h1 align="center">Hello from Thillai  <img src="" width="30px" height="30px"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 <p align="center">
