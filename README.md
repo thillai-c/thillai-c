@@ -36,9 +36,9 @@ I am a ML and Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 
 </p>
-
----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzThillaiC&label=Profile%20views&color=0e75b6&style=flat" alt="a-ma-n" /> </p>
+---
+
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itzThillaiC&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
