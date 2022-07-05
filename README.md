@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hello from Thillai  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px"></h1>
+<h1 align="right">Hello from Thillai  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px"></h1>
 
 <p align="center"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400px" height="300px" ></p>
 <p align="center">
@@ -12,9 +12,9 @@
 
 I am a ML and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I'm a student and contributing to ML/DL based web applications.
-- 🌱 Building and playing around with various Neural nets excites me :)
-- ⚡ Curretly I'm learning and applying various backend tools and Kubernetes.
+- 🔭 I'm AI enthusiast building ML/DL models for different applications.
+- ⚡ Coding and playing around with various Neural nets excites me :)
+- 🌱 Also makes gripping cool websites 
 - 📫 How to reach me: thillaichithambaram.a@gmail.com
 
 ---
