@@ -4,12 +4,6 @@
 <h1 align="center">Hello from Thillai  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px"></h1>
 
 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/thillai-chithambaram"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="40" height="40"></a>
-  <a href="https://twitter.com/ThillaiC_"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge" width="40" height="40"></a>
-</p>
-
 I am a ML and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I'm AI enthusiast building ML/DL models for different applications.
@@ -51,5 +45,10 @@ I am a ML and Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzThillaiC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### Connect with me on: 
+<p align="center">
+<a href="https://www.linkedin.com/in/thillai-chithambaram"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="40" height="40"></a>
+  <a href="https://twitter.com/ThillaiC_"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge" width="40" height="40"></a>
+</p>
 
 
