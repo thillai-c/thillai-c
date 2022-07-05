@@ -4,7 +4,7 @@
 <h1 align="center">Hello from Thillai  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px"></h1>
 
 
-<p align="right"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400px" height="300px" ></p>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/thillai-chithambaram-4952b31b8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://twitter.com/ThillaiC_"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
