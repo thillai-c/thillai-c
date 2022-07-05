@@ -46,7 +46,7 @@ I am a ML and Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 ---
 ### Connect with me on: 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/thillai-chithambaram"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="40" height="40"></a>
   <a href="https://twitter.com/ThillaiC_"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge" width="40" height="40"></a>
 </p>
