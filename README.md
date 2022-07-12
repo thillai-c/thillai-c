@@ -3,8 +3,9 @@
 
 <h1 align="center">Hello from Thillai  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px"></h1>
 
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width='200'/>
+
 I am a ML and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width='200'/>
 
 - 🔭 I'm AI enthusiast building ML/DL models for different applications.
 - ⚡ Coding and playing around with various Neural nets excites me :)
