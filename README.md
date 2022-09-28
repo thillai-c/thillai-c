@@ -52,7 +52,7 @@ I am a ML and Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzThillaiC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Thillai's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzThillaiC&show_icons=true&theme=onedark)
+![Thillai's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzThillaiC&show_icons=true&theme=dark)
 ---
 ### Connect with me on: 
 <p align="left">
