@@ -49,10 +49,10 @@ I am a ML and Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itzThillaiC&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!-- ![Thillai's github stats](https://github-readme-stats.vercel.app/api?username=itzThillaiC&bg_color=151515&show_icons=true&icon_color=fa8b00&border_color=b9b8b8&title_color=fff&text_color=fff)-->
-
+![Thillai's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzThillaiC&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzThillaiC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Thillai's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzThillaiC&show_icons=true&theme=dark)
+
 ---
 ### Connect with me on: 
 <p align="left">
