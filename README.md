@@ -42,17 +42,17 @@ I am a ML and Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzThillaiC&label=Profile%20views&color=0e75b6&style=flat" alt="a-ma-n" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thillai-c&label=Profile%20views&color=0e75b6&style=flat" alt="a-ma-n" /> </p>
 
 ---
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itzThillaiC&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thillai-c&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<!-- ![Thillai's github stats](https://github-readme-stats.vercel.app/api?username=itzThillaiC&bg_color=151515&show_icons=true&icon_color=fa8b00&border_color=b9b8b8&title_color=fff&text_color=fff)-->
+<!-- ![Thillai's github stats](https://github-readme-stats.vercel.app/api?username=thillai-c&bg_color=151515&show_icons=true&icon_color=fa8b00&border_color=b9b8b8&title_color=fff&text_color=fff)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzThillaiC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thillai-c&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Thillai's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzThillaiC&show_icons=true&theme=dark)
+![Thillai's GitHub stats](https://github-readme-stats.vercel.app/api?username=thillai-c&show_icons=true&theme=dark)
 
 ---
 ### Connect with me on: 
