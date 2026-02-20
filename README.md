@@ -11,7 +11,7 @@ My current focus areas include:
 
 ### Open Source
 
-- Contributor to [**vLLM**](https://github.com/vllm-project/vllm) : High-throughput LLM serving engine — fixed silent checkpoint failure for quantized models ([#34859](https://github.com/vllm-project/vllm/pull/34859))
+- Contributor to [**vLLM**](https://github.com/vllm-project/vllm) : High-throughput LLM serving engine
 - Contributor to [**llm-d**](https://github.com/llm-d/llm-d) : Kubernetes-native LLM inference platform
 - Contributor to [**EasyEdit**](https://github.com/zjunlp/EasyEdit) : Knowledge editing framework for LLMs (ACL 2024)
 
